@@ -1,0 +1,11 @@
+{
+    "trackers" :
+    [
+        {
+            "title"    : { "top" : "Top Title",
+                           "bot" : "Bottom Sub Title"},
+            "position" : { "top" : 25, "left" : 50 },
+            "image"    : "map-1"
+        }
+    ]
+}
